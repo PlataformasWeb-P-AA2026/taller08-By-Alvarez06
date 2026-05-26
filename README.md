@@ -41,10 +41,17 @@ paise número de jugadores de la base, número de goles en función de los goles
 * Script(s) replicables (indicar el orden de ejecución)
 
   ```python
+  pip install sqlalchemy
   ```
 
   ```python
+  pip install streamlit
   ```
+
+  Una vez que contamos con las librerías necesarias se ejecutan los siguientes script de la carpeta ORM en el siguiente orden:
+  - clases.py
+  - poblar_base.py
+  - app_streamlit.py
 
   
 * Script de frontend
