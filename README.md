@@ -39,7 +39,23 @@ paise número de jugadores de la base, número de goles en función de los goles
 ## Entregables
 
 * Script(s) replicables (indicar el orden de ejecución)
+
+  ```python
+  ```
+
+  ```python
+  ```
+
+  
 * Script de frontend
+  - Este se encuentra en la carpeta orm/app_streamlit.py
 * Evidencia de la base de datos sqlite
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/d1d0be84-9d77-4412-a159-a8f63a3ae9af" />
+
+
 * Evidencia de la base de datos mariaDB o mySQL
 * Evidencia del fronted funcionando
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/406993cf-74f9-4347-8346-039d2a42f701" />
+
